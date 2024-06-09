@@ -62,7 +62,7 @@ class _mostrarTipoState extends State<mostrarTipo> {
                     ),
                     Text('idCachorro: ' + widget.tipo![0].idCachorro),
                     Text('Tipo: ' + widget.tipo![0].tipo),
-                    Text('Descrição : '  + widget.tipo![0].descricao),
+                    Text('Descrição: '  + widget.tipo![0].descricao),
                   ],
                 ),
                 
